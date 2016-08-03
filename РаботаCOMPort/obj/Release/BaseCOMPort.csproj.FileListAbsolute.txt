@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\РаботаCOMPort\РаботаCOMPort\bin\Release\РаботаCOMPort.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\РаботаCOMPort\РаботаCOMPort\bin\Release\РаботаCOMPort.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\РаботаCOMPort\РаботаCOMPort\obj\Release\BaseCOMPort.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\РаботаCOMPort\РаботаCOMPort\obj\Release\РаботаCOMPort.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\РаботаCOMPort\РаботаCOMPort\obj\Release\РаботаCOMPort.pdb
